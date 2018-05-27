@@ -1,4 +1,4 @@
-package com.example.susunshun.tropnote
+package com.example.susunshun.tripnote
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.example.susunshun.tropnote", appContext.packageName)
+        assertEquals("com.example.susunshun.tripnote", appContext.packageName)
     }
 }

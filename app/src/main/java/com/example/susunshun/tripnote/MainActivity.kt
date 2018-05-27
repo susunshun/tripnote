@@ -1,4 +1,4 @@
-package com.example.susunshun.tropnote
+package com.example.susunshun.tripnote
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

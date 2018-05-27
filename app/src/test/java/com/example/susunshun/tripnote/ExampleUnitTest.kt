@@ -1,4 +1,4 @@
-package com.example.susunshun.tropnote
+package com.example.susunshun.tripnote
 
 import org.junit.Test
 
